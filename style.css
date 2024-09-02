@@ -967,3 +967,14 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+/* =Author styles	===========================*/
+:root {
+  font-size: 100%;
+}
+.site {
+  margin: 0 auto;
+  width: 90%;
+  margin-bottom: 2rem;
+}
+
